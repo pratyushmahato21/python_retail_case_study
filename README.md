@@ -10,12 +10,18 @@ In a nutshell, for big retail players all over the world, data analytics is appl
 
 
 # Retail Data.xlsx
+
   a. This book has three sheets (Customer, Transaction, Product Heirarchy)
+  
   b. Customer: Customers information including demographics
+  
   c. Transaction: Transactions of customers
+  
   d. Product Heirarchy: Product information (cateogry, sub category etc...)
 
+
 # Business Problem:
+
 A Retail store is required to analyze the day-to-day transactions and keep a track of its customers spread across various locations along with their purchases/returns across various categories.
 
 
