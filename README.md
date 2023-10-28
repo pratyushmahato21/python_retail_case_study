@@ -20,7 +20,7 @@ In a nutshell, for big retail players all over the world, data analytics is appl
   d. Product Heirarchy: Product information (cateogry, sub category etc...)
 
 
-# Business Problem:
+# Business Problems:
 
 A Retail store is required to analyze the day-to-day transactions and keep track of its customers spread across various locations along with their purchases/returns across various categories.
 
